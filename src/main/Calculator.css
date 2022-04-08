@@ -7,4 +7,6 @@
   display: grid;
   grid-template-columns: repeat(4, 25%);
   grid-template-rows: 1fr 3rem 3rem 3rem 3rem 3rem;
+
+  box-shadow: 0 0 1rem #000;
 }
