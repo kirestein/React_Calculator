@@ -27,6 +27,7 @@
 .Button.operation {
   background-color: #fa8231;
   color: #fff;
+  font-weight: bold;
 }
 
 .Button.operation:active {
