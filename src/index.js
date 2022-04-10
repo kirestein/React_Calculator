@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Calculator from './main/Calculator';
+// import { Calculator2 } from './main/Calc';
+
 
 ReactDOM.render(
     <div>
